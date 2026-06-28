@@ -10,7 +10,7 @@ A simple and organized Windows Forms desktop application developed using C# for 
 📸 Preview
 
 🏠 Main Page
-![Main Page](Images/ScreenShot1.png)
+![Main Page](Images/ScreenShort1.png)
 
 
 ➕ Add Student
