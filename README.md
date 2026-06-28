@@ -12,18 +12,17 @@ A simple and organized Windows Forms desktop application developed using C# for 
 🏠 Main Page
 ![Main Page](Images/ScreenShot1.png)
 
+
 ➕ Add Student
 ![Add Student](Images/ScreenShortAddStudent.png)
-
-
- 📋 Student List
-![Student List](Images/ScreenShortListStudent.png)
 
 
  🔍 Search
 ![Search](Images/ScreenShortSearch.png)
 
 
+ 📋 Student List
+![Student List](Images/ScreenShortListStudent.png)
 
 ---
 
